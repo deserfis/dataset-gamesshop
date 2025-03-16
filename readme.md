@@ -1,11 +1,9 @@
 # Características
-
-- A empresa foca apenas em fabricação de consoles, deixando a distribuição e venda para terceiros
+- A empresa foca na fabricação de consoles, deixando a distribuição e venda para terceiros
 - Os produtos são vendidos globalmente
 
 # Objetivos
-
-- [ ] Consolidar todas as bases de terceiros para realizar uma análise
-- [ ] Transformar dados de vendasem informações relevantes para a fabricante
-- [ ] Quais são os produtos mais populares em cada país
-- [ ] Como otimizar o processo de transporte e logística até o momento da venda
+- [ ] Consolidar todas as bases de terceiros
+- [ ] Transformar dados de vendas em informações relevantes para a fabricante
+- [ ] Descobrir os produtos populares em cada país
+- [ ] Otimizar o processo de logística e transporte da venda
